@@ -1,0 +1,15 @@
+/home/lucas/Calcular_GPA_Final/bin/Debug/net8.0/Calcular_GPA_Final
+/home/lucas/Calcular_GPA_Final/bin/Debug/net8.0/Calcular_GPA_Final.deps.json
+/home/lucas/Calcular_GPA_Final/bin/Debug/net8.0/Calcular_GPA_Final.runtimeconfig.json
+/home/lucas/Calcular_GPA_Final/bin/Debug/net8.0/Calcular_GPA_Final.dll
+/home/lucas/Calcular_GPA_Final/bin/Debug/net8.0/Calcular_GPA_Final.pdb
+/home/lucas/Calcular_GPA_Final/obj/Debug/net8.0/Calcular_GPA_Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Calcular_GPA_Final/obj/Debug/net8.0/Calcular_GPA_Final.AssemblyInfoInputs.cache
+/home/lucas/Calcular_GPA_Final/obj/Debug/net8.0/Calcular_GPA_Final.AssemblyInfo.cs
+/home/lucas/Calcular_GPA_Final/obj/Debug/net8.0/Calcular_GPA_Final.csproj.CoreCompileInputs.cache
+/home/lucas/Calcular_GPA_Final/obj/Debug/net8.0/Calcular_GPA_Final.dll
+/home/lucas/Calcular_GPA_Final/obj/Debug/net8.0/refint/Calcular_GPA_Final.dll
+/home/lucas/Calcular_GPA_Final/obj/Debug/net8.0/Calcular_GPA_Final.pdb
+/home/lucas/Calcular_GPA_Final/obj/Debug/net8.0/Calcular_GPA_Final.genruntimeconfig.cache
+/home/lucas/Calcular_GPA_Final/obj/Debug/net8.0/ref/Calcular_GPA_Final.dll
+/home/lucas/Calcular_GPA_Final/obj/Debug/net8.0/Calcular_GPA_Final.sourcelink.json
